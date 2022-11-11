@@ -1,3 +1,1 @@
 # vectorAddTestInOpenCL
-# vectorAddTestInOpenCL
-# vectorAddTestInOpenCL
